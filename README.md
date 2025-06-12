@@ -8,6 +8,7 @@ Esses métodos devem ser utilizados na aplicação App.java.
 Essa aplicaçao deve fazer o seguinte:
 
 - Ler um arquivo .txt contendo um conjunto de valores inteiros a serem inseridos na árvore.
+- A árvore deve ser construida a partir das chaves lidas na ordem em que aparecem.
 - A última linha desse arquivo contém um valor apenas que é uma chave a ser pesquisada na árvore.
 - Após a execução o programa de entregar o seguinte:
   - Gerar um arquivo .txt para cada tipo de caminhamento na árvore, ou seja:
