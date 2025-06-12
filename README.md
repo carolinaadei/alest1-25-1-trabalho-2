@@ -16,7 +16,7 @@ Essa aplicaçao deve fazer o seguinte:
     - central.txt
     - largura.txt
  
-  - Um arquivo contendo as chaves visitadas para encontrar a chave de pesquisa. Na ultima linha desse arquivo deve ser colocada a quantidade de nodos visitados e o resultado se achou ou nao. Caso nao encontrou colocar Não Achou.
+  - Um arquivo resultado.txt contendo as chaves visitadas para encontrar a chave de pesquisa. Na ultima linha desse arquivo deve ser colocada a quantidade de nodos visitados e o resultado se achou ou nao. Caso nao encontrou colocar Não Achou.
 
 - O trabalho deve ser entregue em um repositório do github. Na sala de entrega do moodle colocar apenas o link do repo e garantir que o usuário do professor tenha acesso.
   
@@ -32,5 +32,6 @@ Essa aplicaçao deve fazer o seguinte:
   - gerou arquivo txt com as chaves visitadas (1 ponto)
   - colocou a mensagem no final se encontrou ou nao a chave (1 ponto)
 - Qualidade do código (1 ponto)
+- Documentacao no arquivo README.md
 
 ### Data final de entrega: 22/06 (sem chance de adiar :( )
